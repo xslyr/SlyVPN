@@ -1,2 +1,5 @@
 # SlyVPN
-simple vpn
+
+Just a simple VPN using openvpn linux command.
+
+
